@@ -96,8 +96,7 @@ He received his B.S. degree from the [Chu Kochen Honors College](https://ckc.zju
 
 ## Research
 
-- `arXiv 2026`: [BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language](https://arxiv.org/abs/2606.22138), Qizhi Pei<sup>†</sup>, Zhimeng Zhou<sup>†</sup>, Yi Duan<sup>†</sup>, **Yiyang Zhao**, Wei Li, Han Guo, Liang He, Chengping Li, Chang-Yu Hsieh, Conghui He, Rui Yan, Lijun Wu.  
-  <sup>†</sup> Equal contribution. **Yiyang Zhao is the second author by contribution order.**
+- `arXiv 2026`: [BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language](https://arxiv.org/abs/2606.22138), Qizhi Pei<sup>†</sup>, Zhimeng Zhou<sup>†</sup>, Yi Duan<sup>†</sup>, **Yiyang Zhao**, Wei Li, Han Guo, Liang He, Chengping Li, Chang-Yu Hsieh, Conghui He, Rui Yan, Lijun Wu. 
 
 <span id="internships"></span>
 
