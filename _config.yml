@@ -27,9 +27,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Yiyang Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "AI for Science · Computational Biology · Synthetic Biology"
+  bio              : "AI for Science"
   location         : "China"
-  employer         : "Shanghai Artificial Intelligence Laboratory"
   uri              : # URL
   email            : "zhaoyiyang59@foxmail.com"
 
