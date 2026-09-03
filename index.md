@@ -5,6 +5,35 @@ author_profile: true
 ---
 
 <style>
+:root {
+  --profile-font: Georgia, "Times New Roman", Times, serif;
+}
+
+/* Global font */
+body,
+button,
+input,
+select,
+textarea,
+.page__content,
+.page__title,
+.masthead,
+.masthead a,
+.greedy-nav a,
+.sidebar,
+.sidebar p,
+.sidebar li,
+.sidebar h2,
+.sidebar h3,
+.sidebar h4,
+.author__name,
+.author__bio,
+.author__urls,
+.author__urls a {
+  font-family: var(--profile-font) !important;
+}
+
+/* Global font size */
 html {
   font-size: 15px;
 }
@@ -15,7 +44,17 @@ html {
   }
 }
 
-/* Main-content links */
+/* Headings */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  font-family: var(--profile-font) !important;
+}
+
+/* Light mode: dark-blue links */
 .page__content a,
 .page__content a:visited {
   color: #003b73 !important;
@@ -24,42 +63,63 @@ html {
 .page__content a:hover {
   color: #001f3f !important;
 }
+
+/* Dark mode: light-blue links */
+html[data-theme="dark"] .page__content a,
+html[data-theme="dark"] .page__content a:visited {
+  color: #8ecbff !important;
+}
+
+html[data-theme="dark"] .page__content a:hover {
+  color: #b9ddff !important;
+}
+
+/* Hide the footer */
+.page__footer {
+  display: none !important;
+}
+
+body {
+  padding-bottom: 2em;
+}
 </style>
 
 <span id="about"></span>
 
 [About](#about) · [Research](#research) · [Internships](#internships) · [Competitions](#competitions) · [Honors](#honors)
 
-**Yiyang Zhao (赵艺阳 in Chinese)** is currently a first-year Ph.D. student at [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/) and the [College of Pharmaceutical Sciences, Zhejiang University (ZJU)](https://cpsen.zju.edu.cn/).
+**Yiyang Zhao (赵艺阳 in Chinese)** is currently a first-year Ph.D. student at [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/) and the [College of Pharmaceutical Sciences, Zhejiang University (ZJU)](https://cpsen.zju.edu.cn/), supervised by [Prof. Chang-Yu Hsieh](https://person.zju.edu.cn/changyuhsieh).
 
 He received his B.S. degree from the [Chu Kochen Honors College](https://ckc.zju.edu.cn/) and the [College of Life Sciences](https://www.cls.en.zju.edu.cn/) at [Zhejiang University (ZJU)](https://www.zju.edu.cn/english/). His research focuses on **AI for Science (AI4S)**, particularly computational biology, multimodal biomolecular foundation models, and scientific data intelligence.
 
 <span id="research"></span>
 
-### Research
+## Research
 
 - `arXiv 2026`: [BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language](https://arxiv.org/abs/2606.22138), Qizhi Pei<sup>†</sup>, Zhimeng Zhou<sup>†</sup>, Yi Duan<sup>†</sup>, **Yiyang Zhao**, Wei Li, Han Guo, Liang He, Chengping Li, Chang-Yu Hsieh, Conghui He, Rui Yan, Lijun Wu.  
+  <sup>†</sup> Equal contribution. **Yiyang Zhao is the second author by contribution order.**
 
 <span id="internships"></span>
 
-### Internships
+## Internships
 
-- *Present*, Research Intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China
+- 2026.09 - now, Research Intern at [BioMap](https://www.biomap.com/), Beijing, China.
+- 2026.04 - 2026.09, Research Intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China.
 
 <span id="competitions"></span>
 
-### Competitions
+## Competitions
 
 - [ZJU-China @ iGEM 2025](https://2025.igem.wiki/zju-china/), **Team Captain and Project Designer**: 🥈 **Silver Medal**.
 - **ZJU-China @ SynBio Challenges 2025**, **Team Captain and Project Designer**: 🏆 **Grand Prize**, 🥇 **Gold Medal**, and 🌱 **Best Environment/Agriculture Project Award**.
-- **TruSense @ SensUs 2025**, Zhejiang University Team Member: 🥇 **Public Inspiration Award (1st Place)**, 🥉 **Innovation Award (3rd Place)**, and 🏅 **Final Medal** .
+- **TruSense @ SensUs 2025**, Zhejiang University Team Member: 🥇 **Public Inspiration Award (1st Place)**, 🥉 **Innovation Award (3rd Place)**, and 🏅 **Final Medal**.
 
 <span id="honors"></span>
 
-### Honors & Awards
+## Honors & Awards
 
 - 2026, **Outstanding Graduate of Zhejiang Province**
 - 2026, **Outstanding Graduate of Zhejiang University**
 - 2026, **Top Ten Student**, College of Life Sciences, Zhejiang University
 - 2025, **National Scholarship**
-- 2023-2025, **First-Class Scholarship**, Zhejiang University
+- 2023 – 2025, **First-Class Scholarship**, Zhejiang University
