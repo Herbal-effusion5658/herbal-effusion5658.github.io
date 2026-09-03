@@ -8,7 +8,7 @@ author_profile: true
 
 [About](#about) · [Research](#research) · [Honors](#honors)
 
-I am **Yiyang Zhao**, a research intern at the **Shanghai Artificial Intelligence Laboratory**, working at the intersection of artificial intelligence and the life sciences. I received my bachelor's education at **Zhejiang University**, majoring in Biological Sciences and Ecology with a minor in Economics. I graduated with a GPA of **3.97/4.30** and ranked **first in my class for three consecutive years**.
+I am **Yiyang Zhao**, a research intern at the **Shanghai Artificial Intelligence Laboratory**, working at the intersection of artificial intelligence and the life sciences. I earned my bachelor's degree at **Zhejiang University**, majoring in Biological Sciences and Ecology with a minor in Economics. I graduated with a GPA of **3.97/4.30** and ranked **first in my class for three consecutive years**.
 
 My interests center on **AI for Science**, **computational biology**, and **synthetic biology**. I am especially interested in building multimodal biological models and data resources, and in translating computational ideas into experimentally grounded systems.
 
