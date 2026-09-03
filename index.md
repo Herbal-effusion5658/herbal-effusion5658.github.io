@@ -4,6 +4,28 @@ title: "About Me"
 author_profile: true
 ---
 
+<style>
+html {
+  font-size: 15px;
+}
+
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/* Main-content links */
+.page__content a,
+.page__content a:visited {
+  color: #003b73 !important;
+}
+
+.page__content a:hover {
+  color: #001f3f !important;
+}
+</style>
+
 <span id="about"></span>
 
 [About](#about) · [Research](#research) · [Internships](#internships) · [Competitions](#competitions) · [Honors](#honors)
@@ -17,7 +39,6 @@ He received his B.S. degree from the [Chu Kochen Honors College](https://ckc.zju
 ### Research
 
 - `arXiv 2026`: [BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language](https://arxiv.org/abs/2606.22138), Qizhi Pei<sup>†</sup>, Zhimeng Zhou<sup>†</sup>, Yi Duan<sup>†</sup>, **Yiyang Zhao**, Wei Li, Han Guo, Liang He, Chengping Li, Chang-Yu Hsieh, Conghui He, Rui Yan, Lijun Wu.  
-  <sup>†</sup> Equal contribution. **Yiyang Zhao is the second author by contribution order.**
 
 <span id="internships"></span>
 
@@ -30,8 +51,8 @@ He received his B.S. degree from the [Chu Kochen Honors College](https://ckc.zju
 ### Competitions
 
 - [ZJU-China @ iGEM 2025](https://2025.igem.wiki/zju-china/), **Team Captain and Project Designer**: 🥈 **Silver Medal**.
-- **ZJU-China @ SynBio Challenges 2025**, **Team Captain and Project Designer**: 🏆 **Grand Prize**, 🥇 **Gold Medal**, and 🌱 **Best Environment/Agriculture Project Award** ([Zhejiang University report](https://zjubiolab.zju.edu.cn/page/article/show/9df4b48a3e2044bb8e42d0e603f47a1e)).
-- **TruSense @ SensUs 2025**, Zhejiang University Team Member: 🥇 **Public Inspiration Award (1st Place)**, 🥉 **Innovation Award (3rd Place)**, and 🏅 **Final Medal** ([Zhejiang University report](https://zjubiolab.zju.edu.cn/page/article/show/9df4b48a3e2044bb8e42d0e603f47a1e)).
+- **ZJU-China @ SynBio Challenges 2025**, **Team Captain and Project Designer**: 🏆 **Grand Prize**, 🥇 **Gold Medal**, and 🌱 **Best Environment/Agriculture Project Award**.
+- **TruSense @ SensUs 2025**, Zhejiang University Team Member: 🥇 **Public Inspiration Award (1st Place)**, 🥉 **Innovation Award (3rd Place)**, and 🏅 **Final Medal** .
 
 <span id="honors"></span>
 
